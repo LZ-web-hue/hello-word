@@ -1,0 +1,6 @@
+E:\英超威视\C#代码\0514\作业\185-1\185-1\bin\Debug\185-1.exe.config
+E:\英超威视\C#代码\0514\作业\185-1\185-1\bin\Debug\185-1.exe
+E:\英超威视\C#代码\0514\作业\185-1\185-1\bin\Debug\185-1.pdb
+E:\英超威视\C#代码\0514\作业\185-1\185-1\obj\Debug\185-1.csprojResolveAssemblyReference.cache
+E:\英超威视\C#代码\0514\作业\185-1\185-1\obj\Debug\185-1.exe
+E:\英超威视\C#代码\0514\作业\185-1\185-1\obj\Debug\185-1.pdb
